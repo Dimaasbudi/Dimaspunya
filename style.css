@@ -1,0 +1,22 @@
+.jumbotron {
+    backroud-color: #e2edff;
+    padding-top: 6rem;
+    margin-top: 3rem; 
+}
+
+.about{
+    padding-top: 6rem;
+
+}
+.project {
+    backround-color: #e2edff;
+    padding-top: 3rem;
+}
+
+.contact {
+    padding-top: 9rem; 
+}
+.footer {
+    backround-color: #e2edff;
+    padding-top: 3rem;
+}
